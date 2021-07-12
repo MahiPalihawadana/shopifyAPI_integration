@@ -1,0 +1,11 @@
+
+{
+    
+        "shopifyEndpoint": "https://atlinkinterns.myshopify.com/api/2020-10/graphql.json",
+        "shopifyHeader":{
+            "Content-Type": "application/json",
+            "X-Shopify-Storefront-Access-Token": "5bdebf411e94a9c3634841d4cb27f3aa"
+        }
+        
+    
+}
